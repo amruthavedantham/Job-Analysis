@@ -86,6 +86,10 @@ Used `Matplotlib` and `Seaborn` to create meaningful visualizations:
 
 ---
 
+⚠️ Note: Some visualizations in this notebook are interactive (Plotly/Altair) and may not render on GitHub or nbviewer. Please open this notebook in Google Colab or Jupyter for the full experience.
+
+--- 
+
 ## 👤 Author
 
  V Amrutha Varshini
