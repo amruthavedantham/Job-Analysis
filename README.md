@@ -6,6 +6,8 @@ This project presents an end-to-end analysis of job market data to uncover valua
 
 ⚠️ Note: Some visualizations in this notebook are interactive (Plotly/Altair) and may not render on GitHub or nbviewer. Please open this notebook in Google Colab or Jupyter for the full experience.
 
+Google Colab Link: [Link](https://colab.research.google.com/drive/1xe1vtPjZwaa6JgYnHDJxOZEZMhORBQCa?usp=sharing)
+
 --- 
 ## 📌 Overview
 
