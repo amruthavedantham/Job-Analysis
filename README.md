@@ -4,6 +4,9 @@ This project presents an end-to-end analysis of job market data to uncover valua
 
 ---
 
+⚠️ Note: Some visualizations in this notebook are interactive (Plotly/Altair) and may not render on GitHub or nbviewer. Please open this notebook in Google Colab or Jupyter for the full experience.
+
+--- 
 ## 📌 Overview
 
 The goal of this project is to perform exploratory data analysis on a dataset of job listings to identify patterns and support career-related decisions. The analysis focuses on job roles, company preferences, experience levels, skill requirements, and salary trends.
@@ -86,10 +89,6 @@ Used `Matplotlib` and `Seaborn` to create meaningful visualizations:
 
 ---
 
-⚠️ Note: Some visualizations in this notebook are interactive (Plotly/Altair) and may not render on GitHub or nbviewer. Please open this notebook in Google Colab or Jupyter for the full experience.
-
---- 
-
 ## 👤 Author
 
  V Amrutha Varshini
@@ -100,5 +99,6 @@ Used `Matplotlib` and `Seaborn` to create meaningful visualizations:
 
 This project is licensed under the **Creative Commons CC BY 4.0 License**. 
 ---
+
 
 
